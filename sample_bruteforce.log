@@ -1,0 +1,10 @@
+Jul  6 12:30:11 ubuntu-server sshd[12345]: Failed password for invalid user admin from 203.0.113.42 port 54321 ssh2
+Jul  6 12:30:20 ubuntu-server sshd[12346]: Failed password for invalid user root from 203.0.113.42 port 54322 ssh2
+Jul  6 12:30:30 ubuntu-server sshd[12347]: Failed password for invalid user test from 203.0.113.42 port 54323 ssh2
+Jul  6 12:30:40 ubuntu-server sshd[12348]: Failed password for invalid user guest from 203.0.113.42 port 54324 ssh2
+Jul  6 12:30:50 ubuntu-server sshd[12349]: Failed password for invalid user admin from 203.0.113.42 port 54325 ssh2
+Jul  6 12:31:00 ubuntu-server sshd[12350]: Failed password for invalid user root from 203.0.113.42 port 54326 ssh2
+Jul  6 12:31:10 ubuntu-server sshd[12351]: Failed password for invalid user user from 203.0.113.42 port 54327 ssh2
+Jul  6 12:31:20 ubuntu-server sshd[12352]: Failed password for invalid user user from 203.0.113.42 port 54328 ssh2
+Jul  6 12:32:00 ubuntu-server sshd[12360]: Failed password for invalid user admin from 198.51.100.77 port 54330 ssh2
+Jul  6 12:32:10 ubuntu-server sshd[12361]: Accepted password for john from 192.0.2.10 port 54400 ssh2
